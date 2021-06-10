@@ -24,7 +24,7 @@ self.addEventListener('install', function(event) {
           "./",
           "./static/js/2.d01c2824.chunk.js",
           "./static/css/2.150d169a.chunk.css",
-         "./static/js/main.e23d9913.chunk.js",
+         "./static/js/main.5ca7b26c.chunk.js",
          "./static/js/3.31601960.chunk.js",
          "./static/js/runtime-main.e560a828.js",
          "./static/css/main.74a0e18a.chunk.css",
